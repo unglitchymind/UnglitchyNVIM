@@ -1,4 +1,5 @@
 require("core.options")
 require("core.keymaps")
 require("core.lazy")
-require("core.kmplg")
+require("core.keymaps-plugins")
+require("core.colorscheme")

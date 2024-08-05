@@ -27,5 +27,6 @@ sudo apt install npm
 7. [tree](https://github.com/nvim-tree)
 8. [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 9. [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
+10. [tokyonight](https://github.com/folke/tokyonight.nvim)
 
 Contributors: ~~Jack Horny Big cock~~
