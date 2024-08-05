@@ -1,1 +1,3 @@
-vim.cmd[[colorscheme tokyonight-day]]
+local cmd = vim.cmd
+
+cmd[[colorscheme tokyonight-day]]
