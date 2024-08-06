@@ -22,11 +22,10 @@ sudo apt install npm
 2. [lspconfig](https://github.com/neovim/nvim-lspconfig)
 3. [mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
 4. [mason](https://github.com/williamboman/mason.nvim)
-5. [lualine](https://github.com/nvim-lualine/lualine.nvim)
-6. [autopairs](https://github.com/windwp/nvim-autopairs)
-7. [tree](https://github.com/nvim-tree)
-8. [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-9. [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
-10. [tokyonight](https://github.com/folke/tokyonight.nvim)
+5. [autopairs](https://github.com/windwp/nvim-autopairs)
+6. [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+7. [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
+8. [tokyonight](https://github.com/folke/tokyonight.nvim)
+9. [trouble](https://github.com/folke/trouble.nvim)
 
 Contributors: ~~Jack Horny Big cock~~

@@ -9,6 +9,4 @@ keymap.set("n", "<leader>fd", builtin.lsp_definitions, {})
 
 keymap.set("n", "<leader>mm", ":Mason<CR>", {})
 
-keymap.set("n", "<leader>tt", ":NvimTreeToggle<CR>", {})
-
 keymap.set("n", "<leader>ll", ":Lazy<CR>", {})

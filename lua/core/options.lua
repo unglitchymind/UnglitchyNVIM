@@ -7,6 +7,8 @@ opt.termguicolors = true
 opt.number = true
 opt.relativenumber = true
 opt.cursorline = true
+opt.ignorecase = true
+opt.smartcase = true
 opt.shiftwidth = tabsize
 opt.tabstop = tabsize
 opt.softtabstop = tabsize
@@ -16,10 +18,6 @@ opt.foldmethod = "syntax"
 opt.colorcolumn = "80"
 opt.clipboard = "unnamedplus"
 opt.signcolumn = "yes"
-opt.ignorecase = true
-opt.smartcase = true
-
-g.loaded_netrw = 1
-g.loaded_netrwPlugin = 1
+opt.background = "light"
 
 g.mapleader = " "
